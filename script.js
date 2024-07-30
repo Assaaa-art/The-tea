@@ -25,7 +25,7 @@ while(mdp!=vrai_mdp){
 	alert("mauvais mot de passe.....🤡 ");
 	mdp = prompt("🔪Quel est ton mot de passe?🔪");
 }
-alert("Bon mot de passeദ്ദി(˵ •̀ ᴗ - ˵ ) ✧");*/
+alert("Bon mot de passeദ്ദി(˵ •̀ ᴗ - ˵ ) ✧");
 
 let prenom=prompt("Quel est votre nom?");
 let titre=document.getElementById("titre");
@@ -33,4 +33,4 @@ titre.textContent="Bonjour"   +prenom;
 
 let paragraphe =document.createElement("p");
 paragraphe.innerText = "Hello world !";
-document.getElementById("boite").appendChild(paragraphe);
+document.getElementById("boite").appendChild(paragraphe);*/
